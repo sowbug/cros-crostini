@@ -30,3 +30,4 @@ Some notable things to look at:
 * virtwl patched items: https://chromium.googlesource.com/chromiumos/containers/cros-container-virtwl/
 * sommelier (x->wayland): https://chromium.googlesource.com/chromiumos/containers/sommelier
 * gtk theme: https://chromium.googlesource.com/chromiumos/containers/adapta-gtk-theme/
+* Execute `lxc image list google:` in the termina shell to see valid values for `--container_name`. Right now the only one is `stretch`.
